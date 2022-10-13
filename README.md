@@ -6,7 +6,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HazemSoliman9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&include_all_commits=true&theme=radical" alt="Hazem's Github Stats">
 <br>
 Tools and Languages:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,arduino,bash,githubactions,java,js,html,css,linux,mongodb,react,nodejs,powershell,py" />
   </a>
