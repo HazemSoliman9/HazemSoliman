@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Hazem Soliman!👋</h1>
-
+<br>
+<p> Hello, My name is Hazem Sameh. I'm currently studying Computer Science and Engineering at the German University in Cairo. I'm enthusiastic about all things DevOps and software development related. </p>
+<br>
 <p><img align="right" src="https://github.com/HazemSoliman9/HazemSoliman/blob/main/animation_500_kxa883sd.gif" width=450 /></p>
 
 
