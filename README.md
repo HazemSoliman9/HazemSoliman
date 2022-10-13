@@ -13,3 +13,8 @@ Tools and Languages:
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,azure,arduino,bash,githubactions,java,js,html,css,linux,mongodb,react,nodejs,powershell,py&perline=9" />
   </a>
 </p>
+<br>
+Reach me:
+<a href="https://www.linkedin.com/in/hazem-sameh-3543091a6/">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
