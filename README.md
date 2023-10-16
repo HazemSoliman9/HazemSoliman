@@ -9,7 +9,7 @@
 Tools and Languages:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs, git,kubernetes,docker,aws,azure,arduino,bash,java,js,html,css,linux,mongodb,typescript,react,nodejs,express,powershell,py&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nestjs,git,kubernetes,docker,aws,azure,arduino,bash,java,js,html,css,linux,mongodb,typescript,react,nodejs,express,powershell,py&perline=9" />
   </a>
 </p>
 <br>
